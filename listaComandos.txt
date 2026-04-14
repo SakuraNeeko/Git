@@ -1,2 +1,5 @@
 git clone: es un comando para descargar el código fuente existente desde un repositorio remoto.
 git commit: es una herramienta de Git que permite crear un comentario o nueva versión de un archivo en el repositorio.
+git push: Envía los cambios que se han confirmado "commits" desde un repositorio local hacia un repositorio remoto.
+git status: Muestra el estado actual del repositorio: qué archivos han sido modificados, cuáles están listos para guardar y cuáles aún no.
+git add: Agrega archivos al área de preparación, es decir, selecciona qué cambios se quiere incluir en el próximo commit.
